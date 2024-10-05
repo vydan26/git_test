@@ -1,1 +1,3 @@
 Learning Git and Github
+
+Second commit message: "Test"
